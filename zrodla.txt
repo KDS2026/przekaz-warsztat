@@ -1,0 +1,31 @@
+PRZEKAZ — GRUPA 3
+Podstawa: poprawiony scenariusz z 15.10.2026 i referat grupy 3.
+
+Wszystkie szkolne posty i zdarzenia są symulacją. Ilustracje wygenerowano specjalnie do prezentacji; nie są dowodami realnych wydarzeń. Pasek logotypów jest dostarczonym plikiem, bez generowania znaków.
+
+Źródła:
+NASA, Global Temperature Records in Close Agreement (2011):
+https://science.nasa.gov/earth/climate-change/global-temperature-records-in-close-agreement/
+Wykres: oficjalne dane GISTEMP v4, pobrane 14.10.2026, anomalie °C względem 1951–1980. Współczesna seria z korektami nie jest identyczną kopią tabeli z 2011 r.
+https://data.giss.nasa.gov/gistemp/
+AFP, Lourdes (29.07.2024):
+https://factcheck.afp.com/doc.afp.com.36734X7
+Tversky i Kahneman (1981):
+https://stanford.edu/class/psych205/papers/Tversky-Kahneman-1981.pdf
+Demonstracja jest adaptacją: dopowiedziano kompletne wyniki programów A i C. Wynik sali nie jest replikacją badania; 72% i 78% dotyczą odrębnych grup oryginalnego badania.
+
+Fiszki, mapa i quiz to lokalne opracowania na podstawie referatu, zastępujące niedostępne oryginalne aplikacje NotebookLM za zgodą Kingi.
+Długi film z kazusami: dostarczony plik grupy 3. Narracja i ilustracje mają ograniczenia opisane w scenariuszu i w aplikacji. Nie stanowią dodatkowego niezależnego źródła historycznych ustaleń.
+Trzy krótkie filmy grupy 3 nie były dostępne lokalnie przy tworzeniu tej wersji; ich montaż i osadzenie wymagają tych plików. Nie zastąpiono ich filmami z innych grup.
+
+Sterowanie:
+Dalej/Wstecz — kolejne odsłony, nie tylko plansze.
+Strzałki i spacja — nawigacja, gdy fokus nie jest na przycisku, polu ani filmie.
+PRZEKAZ w nagłówku — mapa 20 plansz.
+Materiały + — pełny film, quiz, fiszki, mapa, scenariusz i karty do druku.
+Minutniki uruchamiane ręcznie, bez dźwięku; nigdy nie zmieniają automatycznie planszy.
+Filmy nie uruchamiają się automatycznie. Opcjonalne fragmenty zastępują opowiadanie, a pełny film i dodatkowe narzędzia są poza planem 90 minut.
+
+
+AKTUALIZACJA MULTIMEDIÓW: 15.10.2026
+Usunięto długi film z prezentacji i paczki aplikacji. Dodano rolki: Jak wykresy kłamią, pokazując samą prawdę; Jak jeden podpis fałszuje historię; Jak słowa programują nasze decyzje. Materiały przekazane przez Kingę. Przy filmach znajdują się sprostowania i doprecyzowania narracji. Dodano dwie infografiki przekazane przez Kingę: Ramowanie Przekazu oraz Anatomia manipulacji; zachowano oryginalne pliki grafik.

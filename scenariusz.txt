@@ -1,0 +1,216 @@
+GRUPA 3 — MECHANIZMY MANIPULACJI PRZEKAZEM
+Selekcja faktów, fałszywy kontekst i framing
+Scenariusz po korekcie logicznej — 15.10.2026
+
+Układ jak w W1 „Emocje”: jedna szkolna historia, trzy wiadomości, pierwszy odruch, omówienie mechanizmów i ich granic, powrót do historii po przerwie, wspólne obrony i ćwiartka.
+Czas: 2 × 45 minut oraz przerwa między blokami. Podane czasy są planem prowadzenia, nie wynikiem próby z grupą. Prowadzący pilnuje limitu wypowiedzi; rozwinięte omówienia badań zostawia do własnego przygotowania.
+Cel: uczniowie potrafią wskazać, co pominięto, oddzielić obraz od podpisu i porównać ramy językowe; wybierają konkretne sprawdzenie zamiast automatycznie wierzyć albo odrzucać przekaz.
+
+PRZYGOTOWANIE
+- Trzy kartoniki dla każdego: zielony — UDOSTĘPNIAM; żółty — SPRAWDZAM; czerwony — NIE PRZEKAZUJĘ DALEJ. Kolor zawsze ma podpis.
+- Tablica z trzema wierszami na wyniki głosowania. Nie zapisujemy nazwisk ani indywidualnych wyborów. Brak głosu jest dozwolony i nie wymaga wyjaśnienia.
+- Slajdy z historią, trzema postami, pojęciami, kazusami i wynikami szkolnej ankiety. Wszystkie posty szkolne oznaczone „SYMULACJA”.
+- Dwa warianty kart decyzji do demonstracji framingu, w przybliżeniu po połowie; rozdawane losowo, tekstem do dołu. Dwa pojemniki lub koperty do zebrania odpowiedzi. Nie zbieramy danych osobowych.
+- Trzy stoliki A, B, C; karteczki, markery, plakat z kolumnami SELEKCJA / KONTEKST / FRAMING i pasem DO DYSKUSJI; przygotowany kształt ćwiartki z trzema polami.
+- Zdjęcie szkolnego korytarza jest materiałem do symulacji, z prawem do użycia i bez identyfikowalnych uczniów. Nie publikujemy fikcyjnego postu w prawdziwym obiegu. Pochodzenie zdjęcia opisane w historii jest elementem fikcji, nie ustaleniem dotyczącym fotografii wykorzystanej na slajdzie.
+- Nie zmieniamy ćwiczenia w debatę o tym, czy szkoły powinny zakazywać telefonów. Można różnić się w ocenach i wspólnie sprawdzać przekaz.
+
+BLOK 1 — DOŚWIADCZENIE I ROZPOZNANIE (45 MINUT)
+
+1. OTWARCIE I TRZY WIADOMOŚCI — SLAJDY 1–5 (8 MINUT)
+Cała grupa razem, bez podziału na podgrupy.
+Kontrakt: „Pracujemy na wymyślonej szkolnej historii. Analizujemy przekaz, nie ludzi. Każdy może dać się wprowadzić w błąd — również przez prawdziwe fakty pokazane wybiórczo. Nie sprawdzamy, kto jest mądrzejszy. Można nie głosować i nie trzeba opowiadać o własnych przeżyciach”.
+Prowadzący rozdaje kartoniki i wyjaśnia wybory. „Nie przekazuję dalej” jest decyzją o działaniu, nie orzeczeniem, że wiadomość jest fałszywa. „Sprawdzam” oznacza potrzebę ustalenia konkretnej informacji; nie jest automatycznie poprawną odpowiedzią na każdy możliwy komunikat.
+
+Slajd 2 — historia:
+Dyrekcja Liceum „Pod Lipami” proponuje, żeby od drugiego semestru uczniowie zostawiali telefony w zamykanych szafkach od początku do końca dnia szkolnego. To propozycja, nie podjęta decyzja. W tej fikcyjnej historii rada pedagogiczna ma rozpatrzyć ją po konsultacji z samorządem uczniowskim i radą rodziców. Samorząd przeprowadził ankietę, a spotkanie wszystkich stron zaplanowano na przyszły tydzień.
+Zanim do niego doszło, w sieci zaczęły krążyć materiały zwolenników i przeciwników szafek. Nieoficjalne konta nie reprezentują automatycznie całego samorządu ani dyrekcji.
+
+Zasada: po każdej wiadomości 10 sekund ciszy, potem jednocześnie kartonik w górę. Prowadzący zapisuje tylko liczby wyborów, bez oceniania i komentarza. Nie pyta, kto „dał się nabrać”. Do wyników wrócicie po odsłonięciu historii.
+1. Slajd 3, post nieoficjalnego konta „Głos uczniów Pod Lipami”: „Ankieta mówi wszystko: aż 64% uczniów jest PRZECIW szafkom! Dyrekcja nie może zignorować głosu całej szkoły”.
+2. Slajd 4, post nieoficjalnego konta @cyfrowy_detoks_pod_lipami: zdjęcie zatłoczonego korytarza, widoczni uczniowie patrzą w telefony. Podpis: „Tak wyglądają przerwy w naszej szkole. Nikt ze sobą nie rozmawia. Szafki to jedyne wyjście”.
+3. Slajd 5, post konta „Głos uczniów Pod Lipami”: „Od lutego KONFISKATA telefonów na 8 godzin. Szkoła jak więzienie. Zabierają nam ostatnią wolność”.
+
+Prowadzący pyta: „Co było Waszym pierwszym odruchem po przeczytaniu tych wiadomości?”. Przyjmuje 2–3 krótkie odpowiedzi bez oceniania.
+Mówi: „Reakcje mogą być różne. Za chwilę sprawdzimy, co w tych wiadomościach mogło kierować uwagą i oceną”. Jeśli wszyscy wybrali ostrożność: „Zapisaliśmy potrzebę sprawdzenia. Teraz ustalimy, co konkretnie trzeba sprawdzić”.
+Nie potwierdza jeszcze wyników ankiety ani pochodzenia zdjęcia. Ich wyjaśnienie nastąpi w bloku 2.
+
+2. UWAGA, PAMIĘĆ I KONTEKST — SLAJD 6 (4 MINUTY)
+Prowadzący pyta: „Czy post podał autora zdjęcia, datę i miejsce jego wykonania? Co widzimy w obrazie, a co przyjęliśmy z podpisu?”.
+Nie pyta, kto „zapomniał” metadane, których wcześniej nie podano. Brak tych informacji jest luką w przekazie, nie wynikiem testu pamięci uczestników.
+Omawia trzy karty:
+- Pamięć nie jest nagraniem wideo. Uwaga wybiera część informacji, a odtwarzanie zdarzenia jest procesem rekonstrukcji. Hipokamp uczestniczy w wiązaniu treści z kontekstem, a obszary kory przedczołowej wspierają m.in. monitorowanie źródła. To współpraca sieci, nie jeden „ośrodek prawdy”. Rozpoznawanie obrazu nie gwarantuje pamiętania, skąd go znamy. W naszym poście metadanych jednak nie dostaliśmy — nie wiemy jeszcze, czy podpis jest prawdziwy.
+- Możemy zakładać, że nadawca pokazuje informacje istotne dla pytania. Jedna liczba lub kilka przykładów może wtedy wyglądać jak wystarczający obraz całości. Trzeba sprawdzić, jaki jest zakres i co pominięto.
+- Podatność na takie skróty nie jest miarą inteligencji. Dotyczy też informacji zgodnych z naszym zdaniem.
+Puenta: „Przekaz może wprowadzać w błąd przez pominięcie ważnych faktów, fałszywy podpis albo sugestywne słowa. To różne zabiegi — sprawdzamy je oddzielnie”.
+
+3. SELEKCJA FAKTÓW — SLAJDY 7–8 (8 MINUT)
+Slajd 7
+1. Pytanie techniki: „Czego mi nie pokazano i czy to zmienia wniosek?”.
+2. Narzędzie: ten sam zbiór, inna opowieść. Przed przerwą używamy odrębnego, jawnie modelowego przykładu — nie ujawniamy jeszcze szkolnej ankiety.
+„Po uruchomieniu nowego formularza do biblioteki wpłynęło 20 skarg. Post ogłasza: »Czytelnicy coraz bardziej niezadowoleni!«”.
+Prowadzący pyta: „Co trzeba wiedzieć, żeby ocenić wzrost?”. Po dwóch odpowiedziach odsłania pełniejszy zestaw: w poprzednim porównywalnym okresie wpłynęło 30 skarg, w obu okresach zarejestrowano po 1000 wypożyczeń, a zasady rejestrowania skarg pozostały takie same.
+„Liczba 20 jest prawdziwa, ale sama nie dowodzi wzrostu niezadowolenia. Także spadek liczby skarg nie dowodzi samodzielnie, że wszyscy są bardziej zadowoleni — ankieta satysfakcji byłaby innym źródłem”.
+3. Cała sala czyta hasło: „Prawdziwe liczby, niepełny obraz”.
+4. Prowadzący wyjaśnia: cherry-picking to wybieranie prawdziwych danych, okresów lub przykładów wspierających tezę z pominięciem istotnych informacji. Typowe sygnały: wygodny początek wykresu, licznik bez zbioru odniesienia, anegdota jako dowód skali. Sygnał skłania do kontroli, nie stanowi sam dowodu celowego oszustwa.
+Krótka informacja badawcza: Li, Hsee i Wang (2024) opisują większą tolerancję wobec wybiórczego przedstawiania prawdy niż wobec fałszywych informacji. Nie wyciągamy z tego wniosku o reakcji każdej osoby na sali.
+Dla prowadzącego, do rozwinięcia tylko przy czasie: Mayo-Wilson i współpracownicy analizowali, jak dobór wyników w badaniach i metaanalizach może zmieniać wnioski o skuteczności interwencji.
+Różnica z efektem potwierdzenia: efekt potwierdzenia dotyczy sposobu poszukiwania i interpretowania informacji przez odbiorcę; selekcja dotyczy doboru materiału w przekazie. Mogą współwystępować. Zrozumienie tej różnicy nie wymaga wcześniejszego udziału w innym warsztacie.
+
+Slajd 8 — kazus „ocieplenie skończyło się w 1998 roku” (w ramach powyższych 8 minut: 2–3 minuty)
+Prowadzący od razu zaznacza: taki ogólny wniosek był nieuprawniony.
+- Rok 1998 był wyjątkowo ciepły. Niektóre krótkie wycinki serii zaczynające się w tym roku mogły sprawiać wrażenie braku wzrostu lub spadku.
+- Z takiego wycinka wyciągano wniosek o zatrzymaniu długotrwałego ocieplenia.
+- NASA porównywała dłuższe serie opracowane różnymi metodami, pokazujące długotrwały wzrost mimo wahań rocznych.
+- Problem nie wymagał sfałszowania punktów: polegał na uogólnieniu z wybranego krótkiego okresu. Sam krótki zakres nie jest błędem, jeśli odpowiada jasno postawionemu pytaniu o ten okres.
+Granica do powiedzenia na głos: „Każdy komunikat coś wybiera. Problem zaczyna się wtedy, gdy pominięcie ważnej informacji zniekształca wniosek. Pytamy o kryteria wyboru i sprawdzamy, czy pasują do pytania”.
+
+4. FAŁSZYWY KONTEKST — SLAJDY 9–10 (6 MINUT)
+Slajd 9
+1. Pytanie techniki: „Skąd naprawdę pochodzi ten materiał?”.
+2. Narzędzie: karta pochodzenia. Prowadzący wraca do zdjęcia z wiadomości 2:
+   - Kto je wykonał lub opublikował?
+   - Kiedy je wykonano, a kiedy opublikowano?
+   - Gdzie je wykonano?
+   - Jakie wcześniejsze publikacje i opisy możemy znaleźć?
+„Post przypisuje zdjęcie naszej szkole, ale nie przedstawia podstaw tego przypisania. To twierdzenie do sprawdzenia. Brak metadanych nie dowodzi jeszcze, że zdjęcie jest z innej szkoły”.
+3. Sala czyta hasło ogólnego mechanizmu: „Prawdziwe zdjęcie, fałszywy podpis”. Prowadzący zaznacza: „To nazwa możliwego zabiegu, nie ogłoszenie wyniku weryfikacji naszego szkolnego zdjęcia”.
+4. Fałszywy kontekst to przypisanie materiałowi nieprawdziwej daty, miejsca, autora lub celu. Autentycznego obrazu nie trzeba przerabiać, żeby podpisać go nieprawdziwie.
+Informacje podane później mogą wpływać na pamięć zdarzenia, a korekta nie zawsze usuwa wpływ wcześniejszej wersji. To powiązane zagadnienia badawcze; nie udajemy, że samo oglądanie postu jest demonstracją efektu dezinformacji w pamięci.
+Wyszukiwanie obrazem pomaga znaleźć wcześniejsze kopie i tropy. Najstarszy znaleziony wynik nie musi być pierwszą publikacją ani datą wykonania zdjęcia. Porównujemy kadry, opis i źródło; brak wyniku nie dowodzi autentyczności podpisu.
+
+Slajd 10 — Lourdes jako „protest” po igrzyskach (2024), 2–3 minuty w ramach tego punktu
+- Po ceremonii otwarcia igrzysk w Paryżu krążył film tłumu ze świecami, przedstawiany jako protest chrześcijan przeciw ceremonii.
+- Sprawdzone dochodzenie AFP wskazuje tę samą sekwencję opublikowaną na oficjalnym koncie sanktuarium Lourdes już 14 sierpnia 2022 r., w kontekście uroczystości Wniebowzięcia.
+- Obraz był autentyczny, ale nie przedstawiał deklarowanej reakcji na igrzyska dwa lata później. Nieprawdziwe były aktualność i przypisany cel. O fałszywym miejscu mówimy tylko wtedy, gdy konkretny podpis rzeczywiście wskazywał inne miejsce.
+- Obalenie tego podpisu nie rozstrzyga, czy gdziekolwiek odbył się inny protest.
+Granica na głos: „Błędny podpis nie dowodzi sam w sobie świadomego oszustwa. Najpierw ustalamy pochodzenie i treść błędu, osobno pytamy o zamiar”.
+
+5. FRAMING — SLAJDY 11–13 (13 MINUT)
+Slajd 11 — porównaj ramy i sprawdź wspólny fakt (4 minuty)
+1. Pytanie techniki: „Co ten opis uwydatnia? Jak inaczej można rzetelnie opisać tę samą informację?”.
+2. Prowadzący przypomina ustalony element fikcyjnej historii: „Propozycja zakłada przechowywanie telefonów w zamykanych szafkach od początku do końca dnia szkolnego. Nie ma jeszcze decyzji o jej wprowadzeniu”.
+Pokazuje dwa hasła:
+   - „Konfiskata telefonów. Szkoła jak więzienie”.
+   - „Strefa skupienia. Ochrona uwagi na lekcjach”.
+Pyta: „Co każde hasło uwydatnia, a co pomija? Czy zmienia tylko perspektywę, czy także dopowiada fakt lub korzyść? Czy którekolwiek informuje, że to dopiero propozycja?”.
+Nie nazywa obu haseł rzetelnymi opisami. „Konfiskata” dopowiada charakter działania; „ochrona uwagi” podkreśla zamierzony cel, a nie udowodniony skutek i pomija cały dzień przechowywania. Informacja „od lutego na 8 godzin” również nie została potwierdzona przez przedstawioną propozycję.
+Sala układa pełniejszy opis: „Szkoła konsultuje propozycję przechowywania telefonów w zamykanych szafkach przez cały dzień szkolny. Zwolennicy wskazują skupienie, a przeciwnicy pytają m.in. o kontakt i autonomię. Warunki trzeba dopiero ustalić”.
+3. Sala czyta: „Te same fakty, inne słowa”. Prowadzący dopowiada: „W ćwiczeniu sprawdzamy też, czy pod zmianą słów nie ukryła się zmiana faktów”.
+
+Slajdy 12–13 — demonstracja framingu, adaptacja zadania Tversky’ego i Kahnemana (7 minut)
+Nie jest to pełne badanie naukowe ani test podatności uczestników.
+Prowadzący rozdaje losowo dwa warianty kart. Cała sala pozostaje na miejscach. Nikt nie zamyka oczu; przed zebraniem odpowiedzi nie pokazujemy obu wariantów na ekranie i nie odczytujemy ich wspólnie. Każdy widzi tylko własną kartę, zaznacza jeden wybór i odkłada ją do odpowiedniej koperty. Nie ma konsultacji ani podglądania cudzych decyzji. Można odmówić udziału; przy braku udziału lub znajomości zadania nie wyciągamy wniosku o osobie.
+Wspólne założenie na obu kartach: „To hipotetyczne zadanie, nie rzeczywiste zagrożenie. Przewiduje się, że nietypowa choroba spowoduje śmierć 600 osób. Rozważamy dwa programy przeciwdziałania. Przyjmij, że podane wyniki są kompletnymi oszacowaniami losu tych samych 600 osób”.
+Karta I:
+- Program A: dokładnie 200 osób zostanie uratowanych, a pozostałe 400 nie przeżyje.
+- Program B: jest 1/3 szansy, że wszystkie 600 osób zostanie uratowanych, i 2/3 szansy, że nikt nie zostanie uratowany.
+Karta II:
+- Program C: dokładnie 400 osób umrze, a pozostałe 200 przeżyje.
+- Program D: jest 1/3 szansy, że nikt nie umrze, i 2/3 szansy, że umrą wszystkie 600 osób.
+Uwaga dla prowadzącego: dopowiedzenie dopełniających wyników w A i C służy jednoznaczności dydaktycznej. To adaptacja, nie dosłowna replikacja sformułowań z 1981 r. Nie obiecujemy, że odtworzy oryginalną wielkość efektu.
+Po zebraniu odpowiedzi prowadzący odsłania oba warianty na slajdach 12–13. Zapisuje osobno liczby wyborów i liczbę ważnych odpowiedzi dla każdej karty. Przy małej sali wystarczą liczby, bez pozornej precyzji procentów.
+Odsłonięcie: A i C opisują ten sam pewny wynik, B i D — ten sam rozkład możliwych wyników. Program pewny i ryzykowny nie są identyczne, nawet jeśli mają taką samą wartość oczekiwaną.
+W oryginalnym badaniu 72% z grupy 152 osób wybrało A, a 78% z odrębnej grupy 155 osób wybrało D. Nie były to te same osoby zmieniające decyzję. Nie ma jednej „prawidłowej” preferencji między programem pewnym i ryzykownym.
+Pytania do sali: „Co było wspólne w obu wersjach? Co uwydatniał opis? Jakie racje stały za Waszym wyborem?”.
+Jeśli wynik sali jest inny: „Nasza grupa nie musi odtworzyć proporcji badania. Mała demonstracja nie potwierdza ani nie obala całego zjawiska. Porównajmy znaczenie obu opisów”.
+Jeżeli zadanie wywołuje dyskomfort, uczestnik może je pominąć; prowadzący nie prosi o osobiste historie choroby. Przy szczególnie wrażliwej grupie ogranicza się do modelu 80/20 poniżej i oznacza, że to inne ćwiczenie, bez porównywania z procentami badania.
+
+Wniosek i granica (2 minuty)
+- Framing oznacza dobór perspektywy uwydatniającej pewne aspekty. Może wpływać na wybory, ale nie działa jednakowo w każdym zadaniu ani na każdą osobę.
+- Prosty model równoważnych opisów: „80 ze 100 prac spełnia kryterium” i „20 ze 100 prac nie spełnia kryterium” — przy tym samym kryterium, zbiorze i czasie. Obie wersje mogą być prawdziwe. Nie mylimy tego modelu z wyborem programu pewnego i ryzykownego.
+- Rama może także wskazywać odpowiedzialność osoby lub warunki systemowe. Przypisanie przyczyny wymaga osobnych dowodów.
+Dla prowadzącego: przegląd Kühbergera omawia zróżnicowanie efektów. Metaanaliza Gallagher i Updegraffa rozróżnia postawy, zamiary i zachowania; mała przewaga ramy korzyści dotyczyła zachowań profilaktycznych, nie uniwersalnej skuteczności każdego komunikatu. To osobny rodzaj ramowania niż hipotetyczny wybór ryzykowny.
+Granica na głos: „Każdy przekaz dobiera słowa. Sama rama nie jest oszustwem. Sprawdzamy, czy zachowuje fakty, ujawnia ważne warunki i pozwala uczciwie ocenić inne możliwości”.
+
+6. POŁĄCZENIE TECHNIK I PRZEJŚCIE DO PRZERWY — SLAJD 14 (6 MINUT)
+Prowadzący nie odsłania jeszcze szkolnej ankiety ani pochodzenia zdjęcia.
+Mówi ogólnie: „Jedna liczba może być prawdziwa, ale nie opisywać całości. Zdjęcie może być autentyczne, ale podpisane fałszywie. Słowa mogą uwydatniać korzyść albo stratę, a czasem dopowiadać nieustalone informacje. Te zabiegi mogą się łączyć”.
+Trzy pytania:
+- Czy twierdzenie jest prawdziwe i co to potwierdza?
+- Czy dobór danych lub materiału jest odpowiedni do pytania — czego ważnego brakuje?
+- Czy przedstawione dowody uzasadniają wniosek?
+Sala czyta: „Oddziel dowód od narracji”.
+Prowadzący zapowiada: „Po przerwie wrócimy do szkolnych postów z nowymi informacjami. Nie będziemy oceniać pierwszych wyborów ani głosować za konkretną polityką telefonów. Sprawdzimy, co można teraz powiedzieć rzetelniej”. Pozostały czas przeznacza na jedno pytanie wyjaśniające.
+Przerwa poza czasem bloków. Prowadzący przygotowuje stoliki, plakat i materiały do ćwiartki.
+
+BLOK 2 — ZASTOSOWANIE I WSPÓLNE OBRONY (45 MINUT)
+
+7. POWTÓRKA — SLAJD 15 (3 MINUTY)
+Sala wskazuje: SELEKCJA, KONTEKST, FRAMING. Można odpowiedzieć „łączą się techniki” albo „brakuje danych”. Przy 2–3 przykładach prowadzący prosi o jednozdaniowe uzasadnienie. Nie nagradza samego trafienia w etykietę.
+- „Aż 3 osoby na 10 nie zdały!” → przede wszystkim rama straty; „7 na 10 zdało” opisuje ten sam wynik. Bez dodatkowej tezy o zmianie brak ubiegłorocznego wyniku nie dowodzi selekcji.
+- „Zdjęcie z wczorajszej demonstracji” pod materiałem, dla którego znaleziono identyczną publikację sprzed pięciu lat → fałszywy kontekst czasu. Wcześniejsza publikacja obala aktualność zdjęcia jako dowodu wczorajszego zdarzenia, ale nie zawsze ustala dzień jego wykonania.
+- „Podwyżka cen” i „dostosowanie cen”, gdy ceny faktycznie rosną → różna rama; pytamy też, czy drugi opis nie ukrywa kierunku zmiany.
+- Autor ogłasza trwałą poprawę na podstawie trzech lepszych miesięcy, pomijając dziewięć wcześniejszych miesięcy pogorszenia → selekcja zakresu i nieuprawnione uogólnienie. Sam opis tych trzech miesięcy nie byłby automatycznie błędem.
+- Potwierdzone nagranie z gry podpisane jako rzeczywista walka → fałszywy status materiału jako dokumentacji wydarzenia; w tej klasyfikacji omawiamy go wraz z fałszywym kontekstem. Ciemny obraz sam nie dowodzi pochodzenia z gry.
+- „90% przypadków z efektem” i „10% przypadków bez efektu” → rama zysku i straty tylko przy tym samym wyniku, zbiorze i czasie. Nie utożsamiamy dowolnego „ryzyka” z dopełnieniem skuteczności.
+
+8. CO WIEMY TERAZ O SZKOLNEJ HISTORII — SLAJD 16 (6 MINUT)
+Prowadzący odczytuje odsłonięcie. To dalszy ciąg fikcyjnej historii, nie wynik rzeczywistego dochodzenia:
+„Ankietę wypełniło 412 uczniów. Procenty zaokrąglono do pełnych wartości. W trzech odrębnych pytaniach, na które odpowiedzieli ci sami respondenci:
+- 64% było przeciw szafkom na cały dzień;
+- 71% przyznało, że telefon rozprasza ich na lekcjach;
+- 58% poparłoby przechowywanie telefonów w szafkach tylko podczas lekcji, z dostępem na przerwach.
+Nie znamy liczby wszystkich uczniów ani tego, czy osoby odpowiadające reprezentują całą szkołę. Nie sumujemy tych procentów — dotyczą trzech pytań. Odpowiedzi nie są sprzeczne: można dostrzegać rozpraszanie i jednocześnie nie zgadzać się na szafki przez cały dzień.
+W dalszej części symulacji samorząd udostępnił pełną tabelę pytań i wyników. Sam wynik 71% nie rozstrzyga, że całodzienne szafki są jedynym lub skutecznym rozwiązaniem.
+Dalsze sprawdzenie w tej wymyślonej historii wykazało, że zdjęcie »naszej przerwy« pochodziło z relacji z wycieczki do innej szkoły sprzed trzech lat. Tak ustalono, że podpis był fałszywy. Nie wywnioskowano tego z samego braku metadanych.
+Dyrekcja proponowała cały dzień przechowywania telefonów i kontakt z rodzicami przez sekretariat. Nie ustalono jeszcze daty wejścia w życie ani jednakowych ośmiu godzin dla wszystkich. Dyrekcja określała propozycję »strefą skupienia«. To również rama — jej zamierzona korzyść nie dowodzi jeszcze efektu. Kontakt przez sekretariat nie jest tym samym co nieograniczony dostęp do telefonu.
+Spotkanie zamieniło się w kłótnię zwolenników i przeciwników. W tej historii nikt nie podjął rozmowy o wariancie przechowywania telefonów tylko podczas lekcji, mimo deklarowanego poparcia 58% respondentów. Była to możliwość do sprawdzenia i omówienia, nie dowód, że cała szkoła chciała tego samego”.
+
+Prowadzący pyta, przyjmując krótkie odpowiedzi:
+- „Jak sprawdzimy wiadomość 1?” Pełne pytania, tabela, zbiór odpowiadających i zakres wniosku. Post nie ujawnił, że 64% dotyczy sprzeciwu wobec całego dnia; rozszerzył wynik na całą szkołę.
+- „Co zmieniło ocenę zdjęcia?” Wcześniejsza publikacja i jej opis w fikcyjnej historii, nie sam brak autora w poście. Autentyczny obraz otrzymał fałszywy podpis.
+- „Co z wiadomością 3?” Metafory »konfiskata« i »więzienie« nadają ramę; zapowiedź pewnej decyzji, daty i ośmiu godzin zawiera dodatkowo niepotwierdzone informacje. Nie wszystko jest tylko kwestią słów.
+- „Czy był fałsz?” Tak — przypisanie zdjęcia tej szkole. Inne informacje były wybiórcze, niepotwierdzone albo ocenne. Nie nazywamy każdej niepotwierdzonej informacji udowodnionym świadomym kłamstwem.
+- „Czy problem jest tylko po jednej stronie?” Nie. Analizujemy konkretne posty przeciwników i zwolenników. Nie przypisujemy każdemu z tych obozów ani dyrekcji autorstwa nieoficjalnych kont. Sama rama dyrekcji nie dowodzi oszustwa.
+- „Czy można uczciwie mieć różne zdania?” Tak. Skupienie, kontakt, bezpieczeństwo i autonomia są racjami do rozmowy. Trzeba jeszcze sprawdzić warunki, skutki i rozwiązania.
+Prowadzący wraca do początkowych wyników kartoników: „Które nowe informacje mogły zmienić decyzję o udostępnieniu? Jakie pytanie zadalibyście teraz?”. Nie liczy »nabranych«, nie wymaga zmiany zdania ani publicznego tłumaczenia wcześniejszego wyboru.
+
+9. PODZIAŁ — SLAJD 17, PIERWSZA ODSŁONA (1 MINUTA)
+Dopiero teraz prowadzący dzieli salę na A, B, C, np. przez odliczanie. Przy 18–21 osobach daje to podgrupy po 6–7 osób; przy innej liczebności dostosowuje wielkość. Podgrupy siadają przy oznaczonych stolikach.
+
+10. TRZY RUNDY OBRON — SLAJD 17, KOLEJNE ODSŁONY (15 MINUT)
+Rundy po 5 minut: SELEKCJA → KONTEKST → FRAMING. Wszystkie podgrupy pracują równocześnie nad tą samą techniką. Prowadzący ogłasza początek każdej rundy.
+Instrukcja: „Jeden pomysł — jedna karteczka. W rogu litera A, B lub C. Zapiszcie minimum trzy propozycje według wzoru GDY … → TO …. Mają mówić, co sprawdzę lub zrobię. Nie »nie wierzę nikomu«, tylko konkretne działanie”.
+Powstanie co najmniej 27 karteczek. Każda podgrupa na końcu rundy zaznacza jedną propozycję do krótkiego przedstawienia; pozostałe również trafią na plakat.
+Prowadzący krąży i pomaga pytaniami, nie dyktując gotowego zestawu:
+- SELEKCJA: „Czego ważnego brakuje? Do jakiej całości odnosi się liczba? Czy to zmienia wniosek?”.
+- KONTEKST: „Jak sprawdzicie autora, czas, miejsce i wcześniejszy obieg? Co będzie dowodem, a co tylko tropem?”.
+- FRAMING: „Jak brzmi pełniejszy opis tych samych faktów? Czy druga wersja zachowała dane i nie dopisała przyczyny?”.
+Wzór zapisu, jeśli grupa nie rozumie formatu: „GDY przekaz naciska na natychmiastowe udostępnienie → TO zatrzymuję udostępnienie i wybieram jedno konkretne sprawdzenie”. Nie narzucamy go jako odpowiedzi na wszystkie trzy techniki.
+
+11. ZBIERANIE, PORZĄDKOWANIE I TEST GRANICY — SLAJD 18 (6 MINUT)
+1. Podgrupy równocześnie doklejają wszystkie karteczki do właściwych kolumn, podobne propozycje obok siebie. Nie odczytujemy kolejno wszystkich 27. Z każdej podgrupy pada najwyżej jedna krótka prezentacja na technikę; powtórzenie wystarczy wskazać, bez ponownego czytania.
+2. Prowadzący pyta: „Co się powtórzyło?”. Oznaczenia A+B+C, dwie litery i jedna litera pokazują powtarzalność pomysłu — nie jego prawdziwość.
+3. Każda propozycja do finału przechodzi test:
+   - Czy jest konkretna i da się ją zastosować?
+   - Czy rzeczywiście pomaga sprawdzić twierdzenie lub wniosek?
+   - Czy nie każe automatycznie odrzucać każdej liczby, obrazu lub ramy?
+   - Czy potrafimy powiedzieć, czego po tym sprawdzeniu nadal nie wiemy?
+„Nie wierzę żadnym statystykom” poprawiamy na pytanie o definicję, zakres i porównanie. „Wierzę pierwszemu wynikowi wyszukiwania” poprawiamy na porównanie materiału, daty i źródła.
+4. Powtarzające się i sensowne propozycje tworzą RDZEŃ. Mniej częste mogą być WZMOCNIENIEM, jeśli przejdą ten sam test i grupa je uzgodni. Nie rozstrzygamy jakości przez samą liczbę liter. W razie sporu karteczka trafia do DO DYSKUSJI z zapisanym pytaniem, bez wymuszania zgody.
+Do finału wybierzcie jedną główną obronę i najwyżej jedno krótkie wzmocnienie na technikę. Pozostałe propozycje zostają na plakacie.
+Prowadzący może podsumować: „To odpowiada zasadom sprawdzania zakresu danych, pochodzenia materiału i znaczenia słów, które ćwiczyliśmy”. Nie przypisuje każdej propozycji uczestników badaczom bez wskazania konkretnego źródła.
+
+12. WSPÓLNA ĆWIARTKA — SLAJD 19 (12 MINUT)
+Podgrupy pracują równocześnie nad trzema polami tej samej ćwiartki:
+A — SELEKCJA; B — KONTEKST; C — FRAMING.
+Przenoszą uzgodnioną główną obronę i ewentualne krótkie wzmocnienie z plakatu. Krótko, dużymi literami, każda obrona z rysunkiem: fragment wykresu z szerszym zakresem, zdjęcie z metką „kto? kiedy? gdzie?”, dwa opisy tych samych danych lub własny pomysł.
+Prowadzący wpisuje w narożnik, który trafi do środka koła:
+ODDZIEL DOWÓD OD NARRACJI
+PRAWDZIWE? CO POMINIĘTO? UZASADNIA WNIOSEK?
+Dopowiada: „Nie wymagamy wszystkich możliwych informacji. Szukamy tych, które są ważne dla konkretnego wniosku”.
+Na koniec każda podgrupa sprawdza, czy jej obrona zawiera czynność, a nie sam zakaz lub ogólny apel.
+
+13. WSPÓLNY FINAŁ — SLAJD 20 (2 MINUTY)
+Cała grupa staje przy ćwiartce. Przedstawiciel każdej podgrupy odczytuje jedną obronę. Sala mówi razem: „Oddziel dowód od narracji”.
+Ostatnie zdanie prowadzącego: „Pełniejsze wyniki ankiety otwierały możliwość kompromisu. Nie zastępowały rozmowy ani nie dowodziły, że wszyscy chcą tego samego. Zanim udostępnisz przekaz, sprawdź, co pokazuje, co pomija i czy uzasadnia wniosek”.
+Zdjęcie ćwiartki i plakatu bez osób i danych osobowych. Jeśli pomysły z pasa DO DYSKUSJI pozostają nierozstrzygnięte, nie przedstawiamy ich jako sprawdzonych zasad.
+
+ŹRÓDŁA DLA PROWADZĄCEGO
+Nie są dodatkowym tekstem do odczytania na sali.
+- Referat grupy 3: „Manipulowanie przekazem”, lokalna kopia w Materialy_Grupa3/Referat_Grupa_3_Manipulowanie_przekazem.txt; bibliografia zawiera m.in. Li, Hsee i Wang (2024), Ayers i Reder (1998), Ecker i współpracowników (2022), Mayo-Wilson i współpracowników (2017), Kühberger (2023), Gallagher i Updegraff (2012).
+- Tversky i Kahneman (1981), The Framing of Decisions and the Psychology of Choice: https://stanford.edu/class/psych205/papers/Tversky-Kahneman-1981.pdf — oryginalne wersje zadania, liczebności i wyniki. W scenariuszu zastosowano opisaną wyżej adaptację.
+- AFP (29.07.2024), Video does not show Christian demonstration after Olympic opening ceremony: https://factcheck.afp.com/doc.afp.com.36734X7 — pochodzenie nagrania z Lourdes.
+- NASA, Global Temperature Records in Close Agreement (18.01.2011): https://science.nasa.gov/earth/climate-change/global-temperature-records-in-close-agreement/ — porównanie szeregów temperatur.
+Szkolne posty, ankieta, zdjęcie w fabule i wydarzenia spotkania są symulacją. Nie przypisujemy im statusu rzeczywistych ustaleń ani wyników badań.

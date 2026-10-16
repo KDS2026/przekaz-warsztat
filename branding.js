@@ -1,0 +1,2 @@
+const markLogos=()=>{document.querySelector('#slide').dataset.plan=document.querySelector('#counter').textContent.slice(0,2);document.querySelectorAll('.project-logos img').forEach(im=>{if(!im.getAttribute('src').includes('project-logos.png?v=3'))im.src='assets/project-logos.png?v=3';});};
+new MutationObserver(markLogos).observe(document.querySelector('#slide'),{childList:true,subtree:true});markLogos();
