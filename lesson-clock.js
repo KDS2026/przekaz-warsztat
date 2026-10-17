@@ -17,6 +17,7 @@ let pace='ready',label='gotowy';if(b.since||b.ms){pace=delta < -3?'ahead':delta 
 box.dataset.pace=pace;box.querySelector('#clockQuickStart').hidden=Boolean(b.since);
 const face=box.querySelector('#clockFace'),text=`${s.m.toString().replace('.',',')}′ · ${fmt(elapsed(b))}`;
 if(face.textContent!==text)face.textContent=text;
+let projection=document.querySelector('#projectionClock');if(!projection){projection=document.createElement('span');projection.id='projectionClock';document.querySelector('.shell').append(projection);}projection.textContent=text;projection.dataset.pace=pace;
 face.title=`Lekcja ${s.lesson}: plan ${s.m} min; ${label}.`;
 face.setAttribute('aria-label',face.title);
 
