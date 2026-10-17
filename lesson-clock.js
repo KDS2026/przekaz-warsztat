@@ -14,13 +14,12 @@ box.querySelector('#clockToggle').onclick=()=>{const x=state.blocks[active.lesso
 box.querySelector('#clockQuickStart').onclick=()=>box.querySelector('#clockToggle').click();
 box.querySelector('#clockReset').onclick=()=>{state.blocks[active.lesson]={ms:0,since:null};save();draw();};}
 const mins=elapsed(b)/60000;
-const times=deck.flatMap(x=>x.stages).filter(x=>x.lesson===s.lesson&&x.lessonMinute>s.m).map(x=>x.lessonMinute);
-const end=times.length?Math.min(...times):45;
-let pace='ready',label='gotowy';if(b.since||b.ms){pace=mins<s.m-1?'ahead':mins>end+1?'late':'on';label=pace==='ahead'?'zapas':pace==='late'?'wolniej od planu':'zgodnie z planem';}
+const delta=mins-s.m;
+let pace='ready',label='gotowy';if(b.since||b.ms){pace=delta < -3?'ahead':delta > 3?'late':'on';label=pace==='ahead'?'zapas czasu':pace==='late'?'opóźnienie':'w granicach 3 minut od planu';}
 box.dataset.pace=pace;box.querySelector('#clockQuickStart').textContent=b.since?'Pauza zegara':b.ms?'Wznów zegar':'Wystartuj zegar';
 const face=box.querySelector('#clockFace'),text=`${s.m.toString().replace('.',',')}′ · ${fmt(elapsed(b))}${!b.since&&(b.ms)?' Ⅱ':''}`;
 if(face.textContent!==text)face.textContent=text;
-face.title=`Lekcja ${s.lesson}: plan ${s.m}–${end} min; ${label}. Kliknij, aby sterować zegarem.`;
+face.title=`Lekcja ${s.lesson}: plan ${s.m} min; ${label}. Kliknij, aby sterować zegarem.`;
 face.setAttribute('aria-label',face.title);
 box.querySelector('#clockInfo').textContent=`Lekcja ${s.lesson} · ${label}`;
 box.querySelector('#clockToggle').textContent=b.since?'Pauza':b.ms?'Wznów':'Start lekcji';
