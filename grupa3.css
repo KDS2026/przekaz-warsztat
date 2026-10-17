@@ -53,3 +53,6 @@ button.infographic-link{width:100%;padding:0;border:0;background:transparent;fon
 #clockQuickStart{font:500 11px/1.3 var(--body);padding:4px 7px;margin-right:6px;background:#23664c;color:white;border:1px solid #23664c;border-radius:3px;cursor:pointer}
 
 #lessonClock[data-pace="on"] #clockFace{color:#1565c0;border-color:#1565c0}#lessonClock[data-pace="ahead"] #clockFace{color:#23664c;border-color:#23664c}#lessonClock[data-pace="late"] #clockFace{color:#c62828;border-color:#c62828}
+
+/* Discreet lesson controls in the navigation footer; no pause action. */
+.controls{display:flex;align-items:center;gap:14px}.controls .hint{flex:1}#lessonClock{position:static;display:flex;align-items:center;gap:6px;white-space:nowrap;font-size:11px}#clockFace{padding:2px 4px;border:0;background:transparent;cursor:default}#clockQuickStart,#clockReset{font:500 16px/1 var(--body);padding:5px;margin:0;border:0;background:transparent;color:#66776b;cursor:pointer}#clockQuickStart[hidden]{display:none}#clockQuickStart:hover,#clockReset:hover{color:#23664c;background:#e8eee8}.shell:fullscreen #lessonClock{display:none}
